@@ -1,10 +1,11 @@
-# CPLEX_Examples
-Some operational research problems solved by CPLEX and docplex
+# CPLEX Examples
 
-\begin{itemize}
-  \item[*] Linear programming
-  \item[*] Mixed integer linear programming
-  \item[*] Quadratically constrained quadratic programming
-  \item[*] Knapsack problem
-  \item[*] Assignment problem
-\end{itemize}
+Some operational research problems solved by CPLEX and docplex.
+
+
+
+- Linear programming
+- Mixed integer linear programming
+- Quadratically constrained quadratic programming
+- Knapsack problem
+- Assignment problem
